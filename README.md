@@ -4,9 +4,27 @@
   </samp>
 </p>
 
-<h3 align="center">I am a passionate software engineer with 8 years of expertise in designing, developing, and delivering large-scale server-side systems. My passion lies in programming, distributed systems, and performance optimisation. I thrive on continuous learning and enjoy mentoring others. Being part of a team that shares my enthusiasm for knowledge is something I truly value. I enjoy making things happen and seldom give in. Before starting any development work, I need to have a comprehensive understanding of the big picture. I also love being involved in both the requirement gathering and planning phases.</h3>
+<h3 align="center">
+  🌟 **Passionate Software Engineer with 8 Years of Expertise** 🌟
+</h3>
 
-- 💬 Ask me about **Java, Scala, Postgres, SpringBoot, AWS, Distributed Systems and Microservices.**
+<p align="center">
+  With a robust background in designing, developing, and delivering large-scale server-side systems, I bring a wealth of experience and a deep passion for programming, distributed systems, and performance optimization. My journey in software engineering is driven by a relentless pursuit of knowledge and a commitment to continuous learning.
+</p>
+
+<p align="center">
+  I thrive on mentoring others and being part of a team that shares my enthusiasm for innovation and excellence. My approach is holistic; I ensure a comprehensive understanding of the big picture before diving into development work. I am actively involved in requirement gathering and planning phases, ensuring that every project I undertake is set up for success.
+</p>
+
+<p align="center">
+  🚀 **Let's Connect and Collaborate!** 🚀
+</p>
+
+- 💬 Ask me about *<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>*
 
 - 📫 How to reach me **mr.jyotiprakash@gmail.com**
 
