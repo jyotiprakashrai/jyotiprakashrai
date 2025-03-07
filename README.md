@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Hello, I'm Jyoti Prakash Rai working at <a href="https://www.iqvia.com/">@Nutanix </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
+    Hello, I'm Jyoti Prakash Rai working at <a href="https://www.iqvia.com/">@IQVIA </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
   </samp>
 </p>
 
