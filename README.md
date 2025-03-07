@@ -1,7 +1,8 @@
-## Hi there 👋
-
-
-**jyotiprakashrai/jyotiprakashrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <samp>
+    Hello, I'm Jyoti Prakash Rai working at <a href="https://www.iqvia.com/">@Nutanix </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
+  </samp>
+</p>
 
 Here are some ideas to get you started:
 
